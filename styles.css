@@ -278,6 +278,10 @@ section h1::after {
   margin-top: 10px;
 }
 
+#skills h1{
+  margin-left: 30px;
+}
+
 .progress-bar {
   background: #e6e9ff;
   border-radius: 25px;
