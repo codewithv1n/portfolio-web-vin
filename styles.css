@@ -218,7 +218,7 @@ section h1::after {
   line-height: 1.6;
 }
 
-/* Button under text */
+
 .about-text button {
   margin-top: 25px;
   padding: 10px 25px;
@@ -266,7 +266,7 @@ section h1::after {
 }
 
 
-/* ====== SKILLS ====== */
+/* == SKILLS == */
 .skill-container {
   max-width: 600px;
   margin: 0 auto;
@@ -296,7 +296,7 @@ section h1::after {
   padding: 5px 0;
 }
 
-/* ====== PROJECTS ====== */
+/* == PROJECTS == */
 .project-container {
   display: inline-block;
   width: 280px;
@@ -317,7 +317,7 @@ section h1::after {
   border-radius: 10px;
 }
 
-/* ====== CERTIFICATES ====== */
+/* == CERTIFICATES == */
 .certificate-container {
   display: flex;
   flex-wrap: wrap;
@@ -331,7 +331,7 @@ section h1::after {
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
 }
 
-/* ====== CONTACTS ====== */
+/* == CONTACTS == */
 .contact-container {
   max-width: 500px;
   margin: 0 auto;
