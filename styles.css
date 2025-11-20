@@ -1,4 +1,4 @@
-/* ====== GENERAL ====== */
+/* == GENERAL == */
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ body {
   line-height: 1.6;
 }
 
-/* ====== HEADER & NAV ====== */
+/* == HEADER & NAV == */
 header {
   background-color: #ffffffe7;
   position: fixed;
@@ -57,7 +57,7 @@ nav ul li a:hover {
   color: #6b7bff;
 }
 
-/* ====== SECTIONS ====== */
+/* == SECTIONS == */
 section {
   padding: 100px 10%;
   text-align: center;
@@ -80,7 +80,7 @@ section h1::after {
   border-radius: 5px;
 }
 
-/* ===== HOME SECTION ===== */
+/* == HOME SECTION == */
 #home {
   background-color: #f9fafc;
   min-height: 100vh;
@@ -99,7 +99,7 @@ section h1::after {
   max-width: 1200px;
 }
 
-/* ===== LEFT SIDE (TEXT) ===== */
+/* == LEFT SIDE (TEXT) == */
 .home-text {
   flex: 1;
 }
@@ -130,7 +130,7 @@ section h1::after {
   margin-bottom: 30px;
 }
 
-/* ===== SOCIAL ICONS ===== */
+/* == SOCIAL ICONS == */
 .social-links {
   display: flex;
   gap: 100px;
