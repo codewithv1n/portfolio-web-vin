@@ -148,7 +148,7 @@ section h1::after {
   transform: scale(1.1);
 }
 
-/* ===== RIGHT SIDE (IMAGE) ===== */
+/* == RIGHT SIDE (IMAGE) == */
 .home-picture {
   flex: 1;
   display: flex;
@@ -165,7 +165,7 @@ section h1::after {
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
 
-/* ===== RESPONSIVE ===== */
+/* == RESPONSIVE == */
 @media (max-width: 900px) {
   .home-container {
     flex-direction: column;
@@ -183,7 +183,7 @@ section h1::after {
   }
 }
 
-/* ====== ABOUT ====== */
+/* == ABOUT == */
 #about {
   background: #ffffff;
   padding: 80px 10%;
@@ -199,7 +199,7 @@ section h1::after {
   text-align: left;
 }
 
-/* Left side (text + button) */
+
 .about-text {
   flex: 1;
 }
